@@ -3,6 +3,9 @@ import React from "react";
 const Footer = () => {
     return (
         <>
+        <div className="card-footer bg-dark text-white text-center p-5">
+            <h2>Copyright @ Adbeel Website 2024</h2>
+        </div>
         </>
     );
 } 
